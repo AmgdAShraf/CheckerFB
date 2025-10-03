@@ -32,8 +32,9 @@ fake-useragent==2.2.0
 Faker==37.8.0
 firebase_admin==7.1.0
 Flask==2.3.3
+Flask
 Flask-SocketIO==5.3.6
-pip install gunicorn
+gunicorn
 frozenlist==1.6.0
 gevent==25.9.1
 gevent-websocket==0.10.1
@@ -169,3 +170,4 @@ wsproto==1.2.0
 yarl==1.20.0
 zope.event==6.0
 zope.interface==8.0.1
+
